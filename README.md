@@ -1,5 +1,5 @@
 # Gerador de Relatórios de Atendimento
-Ferramenta simples em HTML, CSS e JavaScript para padronizar e agilizar o registro de atendimentos (telefone, presencial e WhatsApp via Fluctus). Ela organiza os dados do cliente copiados do Fluctus, permite selecionar o meio de contato, e gera um texto final no padrão da empresa, pronto para copiar e colar no sistema.
+Ferramenta simples em HTML, CSS e JavaScript para me ajudar a padronizar e agilizar o registro de atendimentos (telefone, presencial e WhatsApp via Fluctus). Trabalho como analista de suporte e tenho que seguir um padrão na hora de relatar os atendimentos. Ela organiza os dados do cliente copiados do Fluctus, permite selecionar o meio de contato, e gera um texto final no padrão da empresa, pronto para copiar e colar no sistema.
 
 ## Funcionalidades 
 - Padronização automática do cabeçalho do atendimento.
