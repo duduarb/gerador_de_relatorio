@@ -10,3 +10,6 @@ Ferramenta simples em HTML, CSS e JavaScript para me ajudar a padronizar e agili
 - HTML5
 - CSS3
 - JavaScript (DOM, toLocaleDateString, toLocaleTimeString e Clipboard API)
+
+## Em relação ao uso
+A ideia era criar algo em que não precisasse instalar nada. É só baixar o arquivo e executar o .html.
